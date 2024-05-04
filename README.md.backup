@@ -111,6 +111,4 @@ Conditional formatting through VBA adapted from - https://www.excelmojo.com/vba-
 
 Much thanks to the microsoft documentation - https://learn.microsoft.com/en-us/office/vba/api/overview/
 
-To write the do all worksheets loop I used these 2 sources - https://www.mrexcel.com/board/threads/is-there-a-way-to-apply-a-macro-across-all-worksheets.997398/
-
- https://www.automateexcel.com/vba/call-sub-from-another-sub/
+To write the worksheet loop used this guide - https://www.automateexcel.com/vba/call-sub-from-another-sub/
