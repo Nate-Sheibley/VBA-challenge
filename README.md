@@ -1,6 +1,10 @@
 # VBA-challenge 
-## UCBerkeley-Ext data analytics bootcamp HW2
+
+Basic VBA programming and mannipulating excel sheets using programming logic.
+
 ### Background
+
+UCBerkeley-Ext data analytics bootcamp HW2
 
 You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
 ### Before You Begin
